@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS AI",
+  "short_name": "JARVIS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "description": "AI Assistant",
+  "orientation": "portrait",
+  "icons": []
+}
