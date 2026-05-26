@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: cyan;
+    font-family: Arial;
+}
+
+.container {
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 0 0 20px cyan;
+}
+
+#chat {
+    margin-top: 30px;
+    min-height: 300px;
+    border: 2px solid cyan;
+    padding: 20px;
+    border-radius: 20px;
+    overflow-y: auto;
+}
+
+.message {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.user {
+    background: #002222;
+}
+
+.bot {
+    background: #001111;
+}
+
+#mic {
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;
+    background: cyan;
+    color: black;
+}
